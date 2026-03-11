@@ -1,0 +1,7 @@
+# Ignore large CSV files
+website_sessions.csv
+website_pageviews.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
