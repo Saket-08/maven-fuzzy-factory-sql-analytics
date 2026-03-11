@@ -11,9 +11,6 @@ analysis, automation, and performance optimization using PostgreSQL.
 ## 🗄️ Database
 PostgreSQL
 
-## 📅 Dataset Period
-March 2012 – March 2015
-
 ## 📊 Dataset Summary
 | Table                | Rows       |
 |----------------------|------------|
